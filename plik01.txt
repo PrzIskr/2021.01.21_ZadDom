@@ -1,0 +1,4 @@
+w pierwszej æwiartce wszystkie s¹ dodatnie,
+w drugiej tylko sinus,
+w trzeciej tangens i cotangens,
+a w czwartej cosinus
